@@ -1,2 +1,2 @@
-# Cifar10-Resnet
+# CIFAR10-RESNET
 Traning model Resnet with CIFAR-10
